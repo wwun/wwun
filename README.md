@@ -9,9 +9,9 @@ You can connect with me on:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height=30 align="center" src="https://skillicons.dev/icons?i=linkedin&theme=light" /> &nbsp;&nbsp; www.linkedin.com/in/williamwunrafael</p>
 
-<p>
+<br>
+
 ![](https://komarev.com/ghpvc/?username=wwun)
-</p>
 
 <h3>Some technologies and tools I know</h3>
 <p>
