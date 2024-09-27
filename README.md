@@ -1,7 +1,9 @@
 ## Hi there, I'm glad you're here!
 I am William, a software engineer with 8 years of experience in the tech industry. Over the years, I’ve worked primarily with Java, starting with servlets and later moving to Spring Boot. On the frontend, I’ve used technologies like JSF, Bootstrap, Tailwind, and React. For databases, I have experience with SQL Server and MySQL, both on-premises and in the cloud.
 
-I’ve developed ETL projects, handled tickets for problem-solving, and contributed to IT process improvement and enterprise architecture, utilizing the TOGAF framework. I am also nearing the completion of an MBA.
+I’ve developed ETL projects, handled tickets for problem-solving, and contributed to IT process improvement and enterprise architecture, utilizing the TOGAF framework. I am also nearing the completion of an MBA. Below are some of my stats:
+
+You can connect with me on LinkedIn: www.linkedin.com/in/williamwunrafael
 
 ![](https://komarev.com/ghpvc/?username=wwun)
 
