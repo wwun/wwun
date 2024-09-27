@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there,
+### I am William Wun, a software engineering improving development skills and knowledge
+### Currently working on this repository! updates will appear soon!
 
 <!--
 **wwun/wwun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
