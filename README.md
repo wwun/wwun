@@ -32,21 +32,26 @@
 <p>
 	<h3>My GitHub contributions summary</h3>
 	<a href="https://github.com/wwun/github-readme-stats">
-	  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=wwun&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362" />
+	  <img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=wwun&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362" />
 	</a>
 	<a href="https://github.com/wwun/convoychat">
-	  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wwun&layout=compact&langs_count=8&card_width=320&theme=dark" />
+	  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wwun&layout=compact&langs_count=8&card_width=320&theme=dark" />
 	</a>
 </p>
 
 ![](https://leetcard.jacoblin.cool/leetcode?site=cn)
 
-leetcode.com/u/wwun/
-
 ![](https://leetcard.jacoblin.cool/leetcode?site=cn)
+
 <!--
+stats border property
 &hide_border=true
 
+leetCode
+https://github.com/JacobLinCool/LeetCode-Stats-Card?tab=readme-ov-file
+![](https://leetcard.jacoblin.cool/leetcode?site=cn)
+
+stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=wwun&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwun&layout=donut-vertical)](https://github.com/wwun/github-readme-stats)
