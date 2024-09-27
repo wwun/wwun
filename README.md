@@ -7,12 +7,10 @@ Before that, you can connect with me on:
 
 <p>
 <a href="mailto:williamwun@gmail.com">
-<img height=30 align="center" src="https://skillicons.dev/icons?i=gmail&theme=light" />williamwun@gmail.com
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height=30 align="center" src="https://skillicons.dev/icons?i=gmail&theme=light"/></a> &nbsp;&nbsp; williamwun@gmail.com
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/williamwunrafael">
-<img height=30 align="center" src="https://skillicons.dev/icons?i=linkedin&theme=light"> www.linkedin.com/in/williamwunrafael </img>
-</a>
+<img height=30 align="center" src="https://skillicons.dev/icons?i=linkedin&theme=light"/></a> &nbsp;&nbsp; www.linkedin.com/in/williamwunrafael
 </p>
 
 <br>
