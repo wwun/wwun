@@ -8,9 +8,6 @@ You can connect with me on:
 <p><img height=35 align="center" src="https://skillicons.dev/icons?i=gmail&theme=light" /> williamwun@gmail.com
 <img height=35 align="center" src="https://skillicons.dev/icons?i=linkedin&theme=light" /> www.linkedin.com/in/williamwunrafael</p>
 
-[![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](https://skillicons.dev) 
-[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://skillicons.dev) 
-
 ![](https://komarev.com/ghpvc/?username=wwun)
 
 <h3>Some technologies and tools I know</h3>
@@ -51,6 +48,9 @@ You can connect with me on:
 [![LeetCode Stats](https://leetcode.card.workers.dev/wwun?theme=dark&font=baloo&extension=null)](https://leetcode.com/u/wwun/)
 
 <!--
+[![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://skillicons.dev) 
+
 stats border property
 &hide_border=true
 
