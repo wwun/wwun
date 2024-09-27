@@ -31,12 +31,14 @@
 
 <h3>My GitHub contributions summary</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wwun&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwun&layout=donut-vertical)](https://github.com/wwun/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wwun&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwun&layout=compact&theme=dark)
 
 <!--
+&hide_border=true
+
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=wwun&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwun&layout=donut-vertical)](https://github.com/wwun/github-readme-stats)
 -->
 <!--
 **wwun/wwun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
