@@ -52,3 +52,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<small>
+<br>References
+<br>For stats: https://github.com/anuraghazra/github-readme-stats
+<br>For badges: https://shields.io/badges/
+</small>
