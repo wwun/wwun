@@ -39,7 +39,7 @@
 	</a>
 </p>
 
-[![LeetCode Stats](https://leetcode.card.workers.dev/wwun?theme=dark&font=baloo&extension=null)](https://leetcode.card.workers.dev/wwun?theme=dark&font=baloo&extension=null)
+[![LeetCode Stats](https://leetcode.card.workers.dev/wwun?theme=dark&font=baloo&extension=null)](https://leetcode.com/u/wwun/)
 
 <!--
 stats border property
