@@ -44,10 +44,10 @@ Before that, you can connect with me on:
 
 <p>
 	<h3>My GitHub contributions summary</h3>
-	<a href="https://github.com/wwun/github-readme-stats">
+	<a href="https://github.com/wwun">
 	  <img height=180 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=wwun&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362" />
 	</a>
-	<a href="https://github.com/wwun/convoychat">
+	<a href="https://github.com/wwun">
 	  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wwun&layout=compact&langs_count=8&card_width=320&theme=dark" />
 	</a>
 </p>
