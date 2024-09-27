@@ -5,11 +5,15 @@ I’ve developed ETL projects, handled tickets for problem-solving, and contribu
 
 Before that, you can connect with me on:
 
-<p><img height=30 align="center" src="https://skillicons.dev/icons?i=gmail&theme=light" /> &nbsp;&nbsp; williamwun@gmail.com
+<p>
+<a href="mailto:williamwun@gmail.com">
+<img height=30 align="center" src="https://skillicons.dev/icons?i=gmail&theme=light" />williamwun@gmail.com
+</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/williamwunrafael">
-<img height=30 align="center" src="https://skillicons.dev/icons?i=linkedin&theme=light" /> &nbsp;&nbsp; www.linkedin.com/in/williamwunrafael</p>
+<img height=30 align="center" src="https://skillicons.dev/icons?i=linkedin&theme=light"> www.linkedin.com/in/williamwunrafael </img>
 </a>
+</p>
 
 <br>
 
