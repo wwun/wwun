@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 -->
 
 <small>
-<br>References
+<br>Tools Used:
 <br>For stats: https://github.com/anuraghazra/github-readme-stats
 <br>For badges: https://shields.io/badges/
 <br>For leetCodeCard: https://github.com/JacobLinCool/leetcode-stats-card
