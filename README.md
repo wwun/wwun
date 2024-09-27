@@ -7,7 +7,7 @@ Before that, you can connect with me on:
 
 <p><img height=30 align="center" src="https://skillicons.dev/icons?i=gmail&theme=light" /> &nbsp;&nbsp; williamwun@gmail.com
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/wwun/convoychat">
+<a href="https://www.linkedin.com/in/williamwunrafael">
 <img height=30 align="center" src="https://skillicons.dev/icons?i=linkedin&theme=light" /> &nbsp;&nbsp; www.linkedin.com/in/williamwunrafael</p>
 </a>
 
