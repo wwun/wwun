@@ -5,8 +5,8 @@ I’ve developed ETL projects, handled tickets for problem-solving, and contribu
 
 You can connect with me on LinkedIn: www.linkedin.com/in/williamwunrafael
 
-<p><img height=35 align="center" src="https://skillicons.dev/icons?i=gmail&theme=light" /> williamwun@gmail.com</p>
-<p><img height=35 align="center" src="https://skillicons.dev/icons?i=linkedin&theme=light" /> www.linkedin.com/in/williamwunrafael</p>
+<p><img height=30 align="center" src="https://skillicons.dev/icons?i=gmail&theme=light" /> williamwun@gmail.com
+<img height=30 align="center" src="https://skillicons.dev/icons?i=linkedin&theme=light" /> www.linkedin.com/in/williamwunrafael</p>
 
 [![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](https://skillicons.dev) 
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://skillicons.dev) 
