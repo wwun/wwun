@@ -39,9 +39,7 @@
 	</a>
 </p>
 
-![](https://leetcard.jacoblin.cool/leetcode?site=cn)
-
-![](https://leetcard.jacoblin.cool/leetcode?site=cn)
+[![LeetCode Stats](https://leetcode.card.workers.dev/wwun?theme=dark&font=baloo&extension=null)](https://leetcode.card.workers.dev/wwun?theme=dark&font=baloo&extension=null)
 
 <!--
 stats border property
