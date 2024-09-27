@@ -3,7 +3,7 @@ I am William, a software engineer with 8 years of experience in the tech industr
 
 I’ve developed ETL projects, handled tickets for problem-solving, and contributed to IT process improvement and enterprise architecture, utilizing the TOGAF framework. I am also nearing the completion of an MBA. Below are some of my stats:
 
-You can connect with me on:
+Before that, you can connect with me on:
 
 <p><img height=30 align="center" src="https://skillicons.dev/icons?i=gmail&theme=light" /> &nbsp;&nbsp; williamwun@gmail.com
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
