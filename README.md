@@ -6,6 +6,7 @@ I’ve developed ETL projects, handled tickets for problem-solving, and contribu
 You can connect with me on:
 
 <p><img height=35 align="center" src="https://skillicons.dev/icons?i=gmail&theme=light" /> williamwun@gmail.com
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height=35 align="center" src="https://skillicons.dev/icons?i=linkedin&theme=light" /> www.linkedin.com/in/williamwunrafael</p>
 
 ![](https://komarev.com/ghpvc/?username=wwun)
