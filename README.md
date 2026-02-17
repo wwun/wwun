@@ -77,7 +77,12 @@ Architecture & Cloud-Oriented:
 
 ---
 
-## 📫 Connect with me
+## Connect with me
 
-📧 williamwun@gmail.com  
-🔗 https://linkedin.com/in/williamwunrafae
+<p>
+<a href="mailto:williamwun@gmail.com">
+<img height=30 align="center" src="https://skillicons.dev/icons?i=gmail&theme=light"/></a> &nbsp;&nbsp; williamwun@gmail.com
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/williamwunrafael">
+<img height=30 align="center" src="https://skillicons.dev/icons?i=linkedin&theme=light"/></a> &nbsp;&nbsp; www.linkedin.com/in/williamwunrafael
+</p>
