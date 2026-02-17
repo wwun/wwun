@@ -1,4 +1,4 @@
-# 👋 Hi, I'm William
+# Hi, I'm William
 
 ## Backend Engineer | Java & Spring Boot | Secure & Resilient Distributed Systems | Cloud Architecture Oriented
 
@@ -10,9 +10,9 @@ Currently, I am building a production-style microservices architecture that demo
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
-### 🏬 Acme Shop — Production-Style Microservices Backend
+### Acme Shop — Production-Style Microservices Backend
 
 A backend architecture designed to simulate real-world distributed system challenges:
 
@@ -29,11 +29,11 @@ A backend architecture designed to simulate real-world distributed system challe
 
 This project focuses on backend robustness rather than UI features.
 
-👉 [View Project Repository](LINK_AQUI)
+[View my project repository here ](https://github.com/wwun/acme-shop-javabackend)
 
 ---
 
-## 🔐 Production Mindset
+## Production Mindset
 
 When designing backend systems, I prioritize:
 
@@ -48,7 +48,7 @@ When designing backend systems, I prioritize:
 
 ---
 
-## 🧠 Technical Stack
+## Technical Stack
 
 Core:
 - Java 17
@@ -68,7 +68,7 @@ Architecture & Cloud-Oriented:
 
 ---
 
-## 🔎 Additional Technical Explorations
+## Additional Technical Explorations
 
 - Clean Architecture patterns
 - CI/CD pipeline experimentation
