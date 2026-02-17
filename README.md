@@ -64,7 +64,7 @@ Architecture & Cloud-Oriented:
 - API Gateway
 - Service discovery
 - Config server
-- Cloud-ready design (AWS-oriented deployment model)
+- Cloud-ready design with AWS deployyment best practices (containerized services, scalable patterns, fault tolerance)
 
 ---
 
