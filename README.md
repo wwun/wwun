@@ -85,4 +85,9 @@ Architecture & Cloud-Oriented:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/williamwunrafael">
 <img height=30 align="center" src="https://skillicons.dev/icons?i=linkedin&theme=light"/></a> &nbsp;&nbsp; www.linkedin.com/in/williamwunrafael
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="./William_Wun_Software_Engineer_Resume.pdf">
+<img height=30 align="center" src="https://cdn-icons-png.flaticon.com/512/337/337946.png"/> 
+&nbsp;&nbsp; Download My Resume
+</a>
 </p>
