@@ -2,11 +2,11 @@
 
 ## Backend Engineer | Java & Spring Boot | Secure & Resilient Distributed Systems | Cloud Architecture Oriented
 
-I’m a Java backend engineer with 8+ years of experience building and maintaining secure, high-reliability systems in regulated banking environments.
+I’m a Java backend engineer with 7+ years of experience building and maintaining secure, high-reliability backend systems in regulated financial environments.
 
-My work focuses on transactional integrity, secure authentication flows, explicit state management, and resilience under failure.
+My background includes transactional integrity, secure authentication flows, production support, and complex cross-system integrations.
 
-Currently, I am building a production-style microservices architecture that demonstrates service isolation, defense-in-depth security, and distributed system fundamentals aligned with real-world backend standards.
+I recently designed and implemented a production-style microservices backend to deepen expertise in service isolation, resilience patterns, defense in depth, and cloud-aligned containerized deployment.
 
 ---
 
@@ -17,15 +17,17 @@ Currently, I am building a production-style microservices architecture that demo
 A backend architecture designed to simulate real-world distributed system challenges:
 
 - API Gateway (Spring Cloud Gateway)
-- Authentication Service (JWT + OAuth2)
-- Service-to-service JWT propagation (defense-in-depth validation)
+- Authentication Service (JWT + OAuth2 OpenID Connect)
+- Service-to-service JWT propagation (Feign, defense-in-depth validation)
 - Resilience patterns (Circuit Breaker + Retry with backoff)
 - Idempotent order creation
-- Explicit state management for orders & payments
 - Database-per-service (PostgreSQL)
+- Redis-based caching strategy
 - Service Discovery (Eureka)
 - Centralized Configuration (Spring Cloud Config)
 - Docker Compose orchestration
+- Observability via Spring Actuator & Micrometer
+- CI/CD pipeline using GitHub Actions
 
 This project focuses on backend robustness rather than UI features.
 
@@ -43,32 +45,29 @@ When designing backend systems, I prioritize:
 - Circuit breaker protection against cascading failures
 - Clear transactional boundaries
 - Defense-in-depth token validation
-- Eventual consistency awareness
 - Controlled service-to-service communication
 
 ---
 
 ## Technical Stack
 
-Core:
+### Core:
 - Java 17
 - Spring Boot
 - Spring Security
 - OpenFeign
-- Resilience4J
+- Resilience4j
 - PostgreSQL
 - Docker
 
-Architecture & Cloud-Oriented:
+### Architecture & Cloud Orientation
 - Microservices patterns
 - API Gateway
 - Service discovery
 - Config server
-- Cloud-ready design with AWS deployyment best practices (containerized services, scalable patterns, fault tolerance)
+- Cloud-oriented design aligned with AWS best practices
 
----
-
-## Additional Technical Explorations
+### Additional Technical Explorations
 
 - Clean Architecture patterns
 - CI/CD pipeline experimentation
