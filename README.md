@@ -12,7 +12,7 @@ I recently designed and implemented a production-style microservices backend to 
 
 ## Featured Project
 
-### Acme Shop — Production-Style Microservices Backend
+### Acme Shop — Production-Style Microservices Backend ([Repository here](https://github.com/wwun/acme-shop-javabackend))
 
 A backend architecture designed to simulate real-world distributed system challenges:
 
